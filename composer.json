@@ -1,0 +1,16 @@
+{
+    "name" : "sinfini/php-checkpoint",
+    "type" : "application",
+    "description" : "An aternative to php-checkpoint",
+    "license" : "MIT",
+    "authors" : [{
+        "name" : "sankara rao",
+        "email" : "sankar.suda@gmail.com"
+    }],
+    "require": {
+        "php" : ">=5.3.3"
+    },
+    "autoload" : {
+        "psr-0" : {"Checkpoint\\":"src/"}
+    }
+}
