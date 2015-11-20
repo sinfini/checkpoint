@@ -1,7 +1,7 @@
 {
-    "name" : "sinfini/php-checkpoint",
+    "name" : "sinfini/checkpoint",
     "type" : "application",
-    "description" : "An aternative to php-checkpoint",
+    "description" : "Spam checker",
     "license" : "MIT",
     "authors" : [{
         "name" : "sankara rao",
